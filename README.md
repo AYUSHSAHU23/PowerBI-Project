@@ -1,6 +1,6 @@
 # PowerBI-Project
 
-Help organisation to improve employee performance and improve employ retention reduce attrition by creating HR analytics Dashboard.
+Help organisation to improve employee performance and improve employee retention (reduce attrition) by creating HR analytics Dashboard.
 
 •	Figured out the valuables insights from the Dashboard.
 
